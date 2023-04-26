@@ -1,8 +1,6 @@
-Hi Sir,
-
-As the video is too big for Machine Learning Assignment 1 sharing it via Google Drive.
-
-Thanks
-
-
-https://drive.google.com/file/d/1RvIY6eqnTtXJAo3UNETUyuY165U75jLA/view?usp=share_link
+# Pneumonia-Detection
+  Going to hospital for getting treatment over Pneumonia became a critical situation..So, it is better have an application that predicts the Disease based on the patient Xrays..
+  
+  
+  
+  Dataset : Kaggle (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
